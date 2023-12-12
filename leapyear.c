@@ -23,3 +23,9 @@ int main()
 
 	return 0;
 }
+
+/*output:
+Enter the number : 1800
+1800 is a not leap year
+Enter the number : 23
+23 is a not leap year  */

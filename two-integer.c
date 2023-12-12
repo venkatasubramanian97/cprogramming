@@ -14,3 +14,7 @@ int main()
     }
     return 0;
 }
+
+/*output:
+Enter two value : 5 5
+Number1 and Number2 are equal*/
